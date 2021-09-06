@@ -1,3 +1,3 @@
 # Clone_Spotify
- Um clone do site do Spotify
-- Site desenvolvido no Curso de desenvolvimento Web - UDEMY
+A clone of the Spotify website
+- Site developed in the Web Development Course - UDEMY
